@@ -8,7 +8,11 @@
 
 Мой бэкграунд в **психологии** помогает видеть за метриками поведенческие паттерны, объяснять аномалии в данных и точнее интерпретировать результаты аналитики.
 
----
+## Связаться со мной
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-dorofeeva-1a854b104/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dorofeeva)
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:tatidorodorofeeva@yandex.ru)
 
 ## Интересы  
 - Аналитика данных и исследование пользовательского поведения  
