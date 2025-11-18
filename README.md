@@ -22,12 +22,22 @@
 
 ---
 
-## Технологии  
-**Основные инструменты:**  
-Python · SQL · Jupyter Notebook  
+## Технологии
 
-**Библиотеки для анализа данных и ML:**  
-Pandas · NumPy · Scikit-learn · LightGBM · CatBoost  
+### Основные инструменты
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Визуализация:**  
-Matplotlib · Seaborn · Plotly (базовый уровень) · SHAP (интерпретация моделей)
+### Библиотеки для анализа данных и ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-00C800?style=for-the-badge&logo=leaflet&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FF6F00?style=for-the-badge&logo=cat&logoColor=white)
+
+### Визуализация
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4E9BCD?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=dependabot&logoColor=white)
